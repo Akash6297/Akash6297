@@ -1,6 +1,6 @@
 # Hi there <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="10px"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+my+GitHub+Account;I+am+Akash+Mandal+from+INDIA+ + ;I+Am+currently+study+B.Tech+From+RKMGEC;My+Hobbys+are+Playing+Football+,+Darwing+,+Coding+    +)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+my+GitHub+Account;I+am+Akash+Mandal+from+INDIA+ + ;I+Am+currently+study+B.Tech+From+RKMGEC;My+Hobbys+are+Playing+Football+,+Darwing+,+Coding+    +,)](https://git.io/typing-svg)
 
 
 <img align="right" alt="GIF" src="https://github.com/ROHAN0011/ROHAN0011/blob/774b5cbe8c52f960321a3a8e31243c0eb3a9fad8/Flag%20of%20India.gif" width="60%" height="300"/>
