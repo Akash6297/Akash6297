@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://akash6297.github.io/Akash-Mandal](https://akash6297.github.io/Akash-Mandal)
 
-- 📝 I regularly write articles on [https://www.blogger.com/blog/posts/1002705435723199134?pli=1](https://www.blogger.com/blog/posts/1002705435723199134?pli=1)
+- 📝 I regularly write articles on [https://medium.com/@akash6297](https://medium.com/@akash6297)
 
 - 📫 How to reach me **akashmandal6297@gmail.com**
 
